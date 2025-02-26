@@ -1,0 +1,27 @@
+std_msgs/Header header_ros
+std_msgs/UInt8 frame_header1
+std_msgs/UInt8 frame_header2
+std_msgs/UInt8 indicator_of_frame
+std_msgs/UInt8 frame_count
+std_msgs/UInt8 frame_length
+std_msgs/UInt8 flag_for_launch
+std_msgs/UInt8 valid_flag_for_gps
+std_msgs/UInt16 gps_cycle
+std_msgs/UInt64 tic_toc
+std_msgs/Float32 latitude
+std_msgs/Float32 longitude
+std_msgs/Float32 altitude
+std_msgs/Float32 velocity_to_north
+std_msgs/Float32 velocity_to_east
+std_msgs/Float32 velocity_to_sky
+std_msgs/Float32 roll
+std_msgs/Float32 pitch
+std_msgs/Float32 yaw
+std_msgs/Float32 angular_velocity_x
+std_msgs/Float32 angular_velocity_y
+std_msgs/Float32 angular_velocity_z
+std_msgs/Float32 acceleration_x
+std_msgs/Float32 acceleration_y
+std_msgs/Float32 acceleration_z
+std_msgs/UInt8 checksum
+
